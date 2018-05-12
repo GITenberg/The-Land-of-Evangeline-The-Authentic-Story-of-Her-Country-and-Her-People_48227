@@ -1,10 +1,16 @@
 _repo: The-Land-of-Evangeline-The-Authentic-Story-of-Her-Country-and-Her-People_48227
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48227-h/images/cover.jpg
 creator:
   author:
     agent_name: Herbin, John Frederic
     gutenberg_agent_id: '44627'
     url: http://www.gutenberg.org/2009/agents/44627
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48227#The-Land-of-Evangeline-The-Authentic-Story-of-Her-Country-and-Her-People
 gutenberg_issued: '2015-02-10'
 gutenberg_type: Text
 identifiers:
